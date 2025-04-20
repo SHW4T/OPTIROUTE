@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin: 20px 0;
+}
+
+label {
+    display: block; /* Ensures labels are block elements */
+}
+
+input {
+    display: block; /* Ensures inputs are block elements */
+    margin: 10px 0; /* Margin for all inputs */
+}
+
+#end {
+    margin-top: 20px; /* Add extra space specifically for the End Location input */
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#map {
+    height: 400px; /* Height of the map */
+    width: 80%; /* Width of the map */
+}
+
+/* Hamburger Menu Styles */
+.hamburger {
+    position: absolute; /* Positioning it absolutely */
+    top: 10px; /* Distance from the top */
+    left: 10px; /* Distance from the left */
+    font-size: 30px; /* Size of the hamburger icon */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+.menu {
+    display: none; /* Initially hidden */
+    position: absolute; /* Positioning it absolutely */
+    top: 50px; /* Adjust as needed to position below the hamburger */
+    left: 10px; /* Align with hamburger */
+    background-color: white; /* Background color for the menu */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Shadow for depth */
+    padding: 15px; /* Padding around text */
+}
+
+.menu p {
+   margin-top :5px ;
+}
