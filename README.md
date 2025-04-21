@@ -48,7 +48,7 @@ This project uses **Leaflet Routing Machine**, which by default relies on the [O
 
 ## Demo
 
-[VIDEO](https://www.linkedin.com/posts/shashwat-thakur-2b2618354_daa-miniproject-routeoptimization-activity-7319769990969081856-_h6V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)
+[VIDEO](https://www.linkedin.com/posts/shwat_daa-miniproject-routeoptimization-activity-7319769990969081856-5yH5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)
 
 [WEBSITE](https://optiroute.netlify.app/)
 
